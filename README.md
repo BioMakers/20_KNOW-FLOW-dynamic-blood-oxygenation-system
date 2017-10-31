@@ -30,7 +30,6 @@ James built optoacoustic imaging systems during his PhD, and is characterising i
 <img align="right" src="https://github.com/BioMakers/20_KNOW-FLOW-dynamic-blood-oxygenation-system/blob/master/images/calum_williams_250_300.jpg" width="48">
 
 **Calum Williams**
-
 Department of Engineering, University of Cambridge
 
 Calum’s post-doc follows his PhD in optical engineering, in which he fabricated and characterised various optical devices. He will contribute to 3D printing, programming, and optical sensing.

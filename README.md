@@ -5,7 +5,7 @@ The aim of the project is to design and build a low-cost programmable system for
 ## The Team
 
 <img src="https://github.com/BioMakers/20_KNOW-FLOW-dynamic-blood-oxygenation-system/blob/master/images/joanna_brunker_250_300.jpg" width="48">
-Joanna Brunker*       CRUK Cambridge Institute, University of Cambridge
+**Joanna Brunker***     CRUK Cambridge Institute, University of Cambridge
 
 Jo is a postdoctoral research fellow with a PhD in measuring flow using optoacoustics, so will contribute to the design of the flow setup and subsequent testing in an optoacoustic scanner.
 

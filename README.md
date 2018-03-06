@@ -95,6 +95,6 @@ The flow system provides a versatile touchscreen-operated platform for investiga
 Our preliminary measurements using our flow system were presented at an international conference, SPIE Photonics West, in San Francisco (January 2018). A peer-reviewed publication is currently being prepared with details of the flow system and its implementation.
 
 <p align="center">
-<img src="https://github.com/BioMakers/20_KNOW-FLOW-dynamic-blood-oxygenation-system/blob/master/images/SPIE-poster-final-40x44.pdf" width="400">
+<img src="https://github.com/BioMakers/20_KNOW-FLOW-dynamic-blood-oxygenation-system/blob/master/images/SPIE-poster.png" width="400">
 <p align="center">
 Figure 3: Poster presented at SPIE Photonics West conference.

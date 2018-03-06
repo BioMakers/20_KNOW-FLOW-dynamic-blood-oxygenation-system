@@ -1,3 +1,6 @@
+<img align="left" src="https://github.com/BioMakers/20_KNOW-FLOW-dynamic-blood-oxygenation-system/blob/master/images/BloodFlow.jpg" width="300">
+
+
 <img align="right" src="https://github.com/BioMakers/20_KNOW-FLOW-dynamic-blood-oxygenation-system/blob/master/images/Know%20Flow%20Banner.png" width="300">
 
 ## The Idea
